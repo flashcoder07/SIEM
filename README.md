@@ -40,7 +40,3 @@ The goal is to showcase how defensive security practices and Azure-native tools 
 - ✅ Automated incident response (email, ticketing, user blocking)  
 - ✅ Integration with external sources like Office 365, Defender, and DNS logs  
 
----
-
-## 📝 Project Structure
-
